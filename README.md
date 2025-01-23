@@ -1,3 +1,13 @@
 A 1200 raspberry pi, modello di computer da me prodotto nel 2013 e poi sviluppato negli anni
 con cavi plug and play e interfacce usb che sono la proprieta fondamentale del progetto e raspberry
 pi con sd card dapprima registrata con linux e uae e poi con altri sistemi linux fino ad arrivare ad Amibian.
+Ad oggi con PC stick windows 10 e 11 e floppy disk funzionante con winuae e amiga forever.
+Tutto questo e applicabile ad altri computer e console degli anni 70 80 90 come ho gia fatto con molti progetti egli anni scorsi
+Esempio: Commodore 64 con keyrah e chameleon pi
+Amiga 600 con keyrah e uae sotto raspbian o linux
+Zx Spectrum con Interfaccia per tastiera Originale ad USB creata con script sotto Arduino Leonardo ed emulatore Fuse ecc.
+Apple ii con linapple e GSport e raspberry pi
+Atari 2600 con raspberry pi distro linux ed emulatore Stella ed altri della serie Atari
+Amiga Walker con amibian e rom e system origianle di amiga forever sotto raspberry pi o windows
+Ed altri che potete trovare online come Amiga Mini con scatola quadrata venduta su ebay da svariati venditori e amibian come emulatore su raspberry pi
+Ecc.
