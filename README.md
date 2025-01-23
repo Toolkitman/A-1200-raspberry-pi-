@@ -11,3 +11,4 @@ Atari 2600 con raspberry pi distro linux ed emulatore Stella ed altri della seri
 Amiga Walker con amibian e rom e system origianle di amiga forever sotto raspberry pi o windows
 Ed altri che potete trovare online come Amiga Mini con scatola quadrata venduta su ebay da svariati venditori e amibian come emulatore su raspberry pi
 Ecc.
+Qui potete trovare la descrizione dettagliata del prototipo originale e materiali necessari al montaggio https://matteo-trevisan.itch.io/a1200-pc-prototype-with-floppy-drive
