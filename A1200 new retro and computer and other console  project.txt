@@ -2,7 +2,7 @@ A 1200 raspberry pi, modello di computer da me prodotto nel 2013 e poi sviluppat
 con cavi plug and play e interfacce usb che sono la proprieta fondamentale del progetto e raspberry
 pi con sd card dapprima registrata con linux e uae e poi con altri sistemi linux fino ad arrivare ad Amibian.
 Ad oggi con PC stick windows 10 e 11 e floppy disk funzionante con winuae e amiga forever.
-Tutto questo e applicabile ad altri computer e console degli anni 70 80 90 come ho gia fatto con molti progetti egli anni scorsi
+Tutto questo e applicabile ad altri computer e console degli anni 70 80 90 come ho gia fatto con molti dei miei progetti degli anni scorsi
 Esempio: Commodore 64 con keyrah e chameleon pi
 Amiga 600 con keyrah e uae sotto raspbian o linux
 Zx Spectrum con Interfaccia per tastiera Originale ad USB creata con script sotto Arduino Leonardo ed emulatore Fuse ecc.
